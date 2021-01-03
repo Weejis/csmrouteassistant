@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# CSM Route Helper
 
-You can use the [editor on GitHub](https://github.com/Weejis/csmrouteassistant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## THIS APPLICATION WAS DESIGNED AND INTENDED SOLELY TO BE USED BY THE OWNERS AND EMPLOYEES OF COPPER STATE METALS LLC.
+## IF **YOU ARE NOT** AN OWNER OR EMPLOYEE OF COPPER STATE METALS LLC, **THEN THIS APPLICATION WILL NOT PERFORM ON YOUR DEVICE(S)**,
+## AND ABSOLUTELY NO INFORMATION WILL BE COLLECTED FROM YOUR DEVICE(S).
 
-### Markdown
+## IF **YOU ARE** AN EMPLOYEE OF THIS COMPANY, THEN THE FOLLOWING INFORMATION BELOW WILL BE COLLECTED; AND WILL ONLY BE USED
+## TO ENHANCE WORK PERFORMANCE, AND WILL NOT BE USED FOR ANY OTHER PURPOSES:
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Your Location
+## This will be used to:
+- Assist you in locating yourself on the shown map, in relation to other navigation objects on the map.
+- Allow ease of use, such as quick navigation to said navigation objects.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Access To Your Camera And Stored Photos
+## This will be used to:
+- Allow ease of use, as taking photos of jobsites, and sending them to the main office, will be a required operation of employment at Copper State Metals.
+As such, this application will request access to your camera and stored photos.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Access To Your Contacts and Text Messages
+## This will be used to:
+- Allow ease of use throughout this application, as contacting many other individuals (i.e. through phone calls and text messages),
+will also be a required operation of employment at Copper State Metals.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Weejis/csmrouteassistant/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# IF THERE ARE ANY QUESTIONS OR CONCERNS WITH THIS APPLICATION, THE DEVELOPER CAN BE REACHED AT:
+_dispatchadmin@csmrouteassistance.com_
